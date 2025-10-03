@@ -1,5 +1,5 @@
 # SCP 8086 Monitor
- All known and available revisions of the Seattle Computer Products 8086 Monitor ROM. This monitor was written by Tim Paterson, for the SCP 8086 CPU Support Card, and was later turned into the 86-DOS/MS-DOS/PC-DOS DEBUG utility. Version 1.9 is required for booting MS-DOS 2.0 from hard drive.
+ All known and available revisions of the Seattle Computer Products 8086 Monitor ROM. This monitor was written by [@TimPaterson](https://github.com/TimPaterson), for the SCP 8086 CPU Support Card, and was later turned into the 86-DOS/MS-DOS/PC-DOS `DEBUG` utility. Version 1.9 is required for booting MS-DOS 2.0 from hard drive.
 
 ## Download
 
